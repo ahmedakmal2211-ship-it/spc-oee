@@ -4,7 +4,7 @@ Control charts (Xbar-R and I-MR), Cp/Cpk/Pp/Ppk and an OEE breakdown from two CS
 
 ## Run the demo
 
-Needs Python 3.10 or newer. Nothing to install.
+Tested on Python 3.13. It uses only the standard library and should run on 3.10 or newer, but that is untested. Nothing to install.
 
 ```
 git clone https://github.com/ahmedakmal2211-ship-it/spc-oee.git
