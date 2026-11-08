@@ -1,0 +1,15 @@
+period,planned_time_min,downtime_min,ideal_cycle_time_min,total_count,good_count
+Day1-Early,480,57,0.5,661,635
+Day1-Late,480,70,0.5,662,627
+Day2-Early,480,26,0.5,790,756
+Day2-Late,480,56,0.5,727,677
+Day3-Early,480,65,0.5,665,618
+Day3-Late,480,52,0.5,725,693
+Day4-Early,480,37,0.5,746,720
+Day4-Late,480,25,0.5,737,694
+Day5-Early,480,66,0.5,706,652
+Day5-Late,480,57,0.5,687,646
+Day6-Early,480,45,0.5,690,653
+Day6-Late,480,66,0.5,689,665
+Day7-Early,480,41,0.5,707,679
+Day7-Late,480,81,0.5,699,653
